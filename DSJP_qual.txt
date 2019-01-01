@@ -1,0 +1,221 @@
+30 CA Google jobs
+• Skilled real world modeling with machine learning/deep learning techniques such as clustering, decision tree, random forest and artificial neural networks
+• Solid foundation in statistics such as regression, correlation, statistical tests, etc.
+• At least 4 years of data modeling experience
+• Familiar with common data tools such as R, scikitLearn, Spark ML, Tensorflow, etc.
+• Solid background in data analytics
+• Strong scripting and programming skills (Python experience preferred)
+• Knowledge of SQL and experience with relational databases
+• Good written and verbal communication skills
+• Passionate about learning
+• Knowledge of Ad technology and programmatic bidding is highly preferred
+• Data Science
+• Machine Learning
+• Prediction
+• AI
+• Python
+• R
+• AWS
+• Comfortable with analyzing complex problems and creating innovative strategy
+• Ability to work independently with strong attention to detail
+• Strong written and spoken communication skills
+• Experience with statistical analysis, predictive modeling or artificial intelligence/machine learning algorithms strongly preferred
+• Strong skill and experience in data mining
+• Proficient working with databases: Oracle, SQL server, Teradata, etc
+• Python Coding. Python is the most common coding language required in data science roles, along with Java, Perl, or C/C++.
+
+• Hadoop Platform
+
+• HANA
+
+• R
+
+• SQL Database/Coding. ...
+
+• Data Visualization. ...Power BI / Tableau, PowerPivot
+
+• Unstructured data
+Expert level knowledge in SQL
+
+Strong experience in programming languages like Python or Java
+
+Strong experience in statistics, machine learning models and mathematical theory
+
+Strong passion for learning new technologies fast
+• Experience developing and testing image processing and/or machine learning algorithms for applications in computer vision, object detection/classification/recognition, and/or photogrammetry
+
+• Experience with aerial and/or spaceborne remote sensing systems and GIS/mapping applications
+
+• Demonstrated experience in algorithm development from concept through release including writing and testing production code
+
+• Experience with Matlab, Python, TensorFlow, C/C++, Open CV, Intel Performance Primitives or similar libraries
+
+• Strong background in mathematics and/or physics
+
+• You are self-motivated, capable of working through the daily details based on high level direction
+
+• Experience and ability to work successfully in a collaborative team environment
+
+• Preferred experience gained at SECRET, TS/SCI (TK), or SAP level for aerial remote sensing applications
+
+• Current SSBI or ability to obtain security clearance desired
+-Experience with one or more statistical analytical programming languages, including Python or R
+
+-Experience with source control and dependency management software, including Git or Maven
+
+-Experience with using relational databases, including MySQL
+
+-Experience with identifying analytic insight in data, developing visualizations, and presenting findings to stakeholders
+
+-Knowledge of object-oriented programming, including Java and C++
+
+-Knowledge of various machine learning algorithms and their designs, capabilities, and limitations
+
+-Knowledge of statistical analysis techniques
+
+-Ability to build complex extraction, transformation, and loading (ETL) pipelines to clean and fuse data together
+
+-Ability to obtain a security clearance
+
+-BA or BS degree
+
+Nice If You Have:
+
+-Experience with designing and implementing custom machine learning algorithms
+
+-Experience with graph algorithms and semantic Web
+
+-Experience with designing and setting up relational databases
+
+-Experience with Big Data computing environments, including Hadoop
+
+-Experience with Navy mission systems
+GPA of 3.0 or higher
+• Graduating in December of 2019 or June of 2020
+• Good Understanding of machine learning theory, Artificial Intelligence [Deep Learning] and algorithms, such as CNNs, k-NN, Naive Bayes, SVM, Decision Forests, Ensembles, Decisions Trees
+• Good coding skills and knowledge around using scientific, distributed programming and scripting languages like R, Python, Pyspark and/or Java.
+• Good foundation in statistics and machine learning algorithms
+• Familiarity of modern statistical learning methods & machine learning Frameworks like H2O, Spark & Hadoop
+• Knowledge on how to build prototypes and be able to understand the existing code base.
+• A principled approach to solving algorithmic problems with a focus on what will make users happy
+• A pragmatic approach to rapidly evaluating new algorithmic ideas
+• A very high attention to detail and ability to thoroughly think through problems
+• Experience with statistical and mathematical software
+• Proven ability to develop system prototypes.
+• SQL skills
+• Excellent oral and written communication skills.
+• Strong documentation skills.
+• Understanding of machine learning techniques and the ability to invent.
+• Big data experience- Hadoop, Spark, Map-reduce, Hive, etc.
+• Experience with Agile methodology or similar lean startup approach to building software.
+• Experience with time series or signal processing analytics.
+• Data analytics
+• Data modeling
+• Inferential statistics
+• Predictive analytics
+• Design of experiment
+The candidate must have working knowledge in JMP, Prism, Minitab, or SAS.
+
+Prior experience with any of the following is a plus: R, Python, Streaming analytics, Machine Learning
+
+
+• Excellent written and oral communication skills on both technical and non-technical topicsAbility to commit 40 hours per week for 10-12 weeks during the 2018 summer.
+• Expert in at least one scripting language(Python/R)
+• Proficient in SQL/Hive
+• Proven ability to apply scientific methods to solve real-world problems
+• Knowledgeable about the machine learning trade-offs and model evaluation
+• Ability to lead initiatives across multiple product areas and communicate findings with leadership and product teams
+• Experienced in machine learning algorithms
+• Must have experience using Python!
+• Ability to work well in a collaborative (and fun) team environment, and an eagerness to contribute ideas, share skills, and develop best practices
+- You have a GPA of 3.0 or higher
+
+- You know how to work a problem from beginning to end with data science tools and techniques, including data manipulation (SQL, Hadoop, etc.) and programming (R, Python, XML, Javascript, or ETL) frameworks
+
+- You have experience with Oracle databases, strong knowledge of and experience with reporting packages (Business Objects etc), and are knowledgable of statistics for analyzing large datasets (Excel, SPSS, SAS etc).
+
+- You possess technical knowledge regarding data models, database design development, data mining and segmentation techniques
+
+- You possess strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+
+- You are proficient in queries, report writing and presenting findings
+• 2+ years related experience such as analyzing data and/or building analytical models; in either an academic or professional setting.
+• Knowledge of multiple operating systems (e.g. Windows, Unix/Linux).
+• Proficiency with 1 or more of the following Programming or Scripting languages: R, SAS, Bash, Perl, Python, MatLab.
+• Thorough knowledge of at least some supervised and unsupervised modeling techniques such as Logistic/Linear Regression, SVMs, Neural Networks / Deep Networks, Boosting/Ensemble methods, Decision Trees, Clustering, etc.
+• Ability to manage very large amounts of data.
+• 2+ years experience in data-based decision-making or quantitative analysis
+
+• Competence in Excel, PowerPoint and Tableau
+• Experience in understanding and analyzing data using statistical software (e.g., Python, SAS, R, Stata or others)
+• Previous exposure to financial services, credit cards or merchant analytics is a plus, but not required
+- Comprehensive knowledge of one or more of the following: high performance computing, scientific data analysis, statistical analysis, knowledge discovery, computer security, systems programming, large-scale data management, and big data technologies.
+- Skilled in all aspects of the software project life cycle: feasibility, requirements, design, implementation, integration, test and deployment.
+- Experience developing software with C++, C, Java, Python, R, or Matlab, software applications in Linux, UNIX, Windows environments, data analysis algorithms, data management approaches, relational databases, or machine learning algorithms.
+- Demonstrated ability to effectively handle concurrent technical tasks with conflicting priorities, to approach difficult problems with enthusiasm and creativity and to change focus when necessary, and to work independently and implement research concepts in a multi-disciplinary team environment, where commitments and deadlines are important to project success.
+- Effective interpersonal skills necessary to interact with all levels of personnel.
+- Proficient verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information.
+In Addition at the SES.3 Level
+- Effective advanced analytical, problem-solving, and decision-making skills to develop creative solutions to complex problems.
+- Significant experience with demonstrated expertise in the following technical languages, concepts, or constructs and in one or more of the following advanced areas: high performance computing, scientific data analysis, statistical analysis, knowledge discovery, computer security, systems programming, large-scale data management or big data technologies.
+- Advanced verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information and provide advice to management.
+Experience must include 1 year of experience involving the following: developing state-of-the-art enterprise solutions leveraging deep learning and machine learning; translating the recent results from research and academia in the area of Neural Networks into enterprise software modules; implementing Computer Vision and Image Processing algorithms to solve business challenges; implementing Natural Language Processing and Natural Language Understanding components to understand business context; integration of speech-to-text frameworks into enterprise software; implementing machine learning-based solutions using C, C++, Python, Java, MATLAB, OpenCV, NLP Frameworks; and Agile software development, task coordination and execution. 10% travel required.
+• Be an excellent programmer; experience with distributed systems like Hadoop or Spark a big plus
+• Have a strong working knowledge of machine learning algorithms that may include Naïve Bayes, Decision Trees, SVM, Logistic Regression, Deep Learning, and Boosting
+• Be comfortable working independently, be able to produce something impressive in one summer, have the ability to come up with novel solutions to difficult problems
+Experience with web development: HTML, CSS and JavaScript
+Background in development and production of electronic and RF components, or a degree in a related field
+Experience with Business Objects, Tableau, or other charting tools
+Experience with shop floor systems
+Experience with the Software Development lifecycle, and both Agile and Waterfall projects
+Experience with electrical and mechanical data management systems
+Data analytics and visualization, statistics
+Database query experience
+Experience with Excel Macros
+Experience in Data management, Data Engineering, or Data Science
+Experience with R or similar statistical languages
+Experience using SQL to query databases (Oracle, SQL Server)
+Team work: will be collaborating with team members to develop use cases in order to know the business goals and data that will be required to solve problems. need to know the right approach to address the use cases, the data that is needed to solve the problem and how to translate and present the result into what can easily be understood by everyone involved.Story telling: speaking the same language the company understands, candidate will need to communicate by using data storytelling. As a data scientist, the candidate will need to know how to create a storyline around the data to make it easy for anyone to understand.• Business acumen: in terms of data science, being able to discern which problems are important to solve for the business is critical, in addition to identifying new ways the business should be leveraging its data.
+• Unstructured data Data Visualization. ...Power BI / Tableau, PowerPivot• SQL Database/Coding. ...• R• HANA• Hadoop Platform• Python Coding. Python is the most common coding language required in data science roles, along with Java, Perl, or C/C++. ...
+ Minimum 2 years of experience with programming languages for data science such as Python, Java, R, etc.
+• Strong mathematical and statistics skills.
+• Strong interpersonal and communication skills (both written and oral).
+• Ability to communicate complex technical or statistical concepts to a non-technical audience.
+• Work as part of a team and collaborate with colleagues while maintaining highest levels of respect and positive team spirit.
+Credit risk management/fraud detection industry experience in developing scoring models.
+• Experiences with advanced machine learning algorithms including Deep learning, boosting, and tree based methods.
+• Experience using cloud or distributed computing frameworks such as Hadoop, SPARK, AWS/EMR, BigQuery, etc.
+• Demonstrated ability to apply modern data exploration and visualization techniques to deliver actionable insights.
+• Experience in collaborative projects using software development best practices such as version control and testing.
+• Experience building best in class cognitive engines by leveraging advanced algorithms performing comprehensive analysis in near real-time.
+• Bachelor’s Degree in Information Technology, Computer Science, quantitatively-focused social sciences, or other quantitative fields.
+• 1 to 4 years of experience working with large and varying data sets, applying qualitative and quantitative analysis to interpret the data.
+• Knowledge and experience utilizing open source and business intelligence tools such as Python, R, Java, and SQL.
+• Preferred Experience with Tableau, AWS, Apache, Hadoop, NiFi, OrientDB, HBase, ElasticSearch, and JIRA.
+• Understanding of and experience with building canned and ad-hoc reports based on user requirements.
+• Proficient in MS Office with advanced skills in Excel, Access, PowerPoint, Projects, and Visio.
+• Strong writing skills and experience conveying highly technical material to non-technical audiences.
+• Strong analytical skills with the ability to analyze data sets to determine trends, establish strategies, and make decisions.
+• Outstanding interpersonal and communication skills with the ability to effectively communicate with diverse audiences and influence cross functionally.
+• Experience working in the federal contracting space is highly desired.
+• Must be a U.S. Citizen with the ability to obtain and maintain a government suitability clearance.
+• Experience with data management, identity resolution, ad servers, buying platforms, yield management, attribution, performance measurement.
+Expertise in one or more of R, Python, SAS.
+
+Experience building large data sets across disparate sources (SQL, Hive, Pig).
+
+Familiarity with basic principles of distributed computing/databases (Hadoop, NoSQL).
+
+Deep understanding of Machine Learning and Data Mining techniques.
+
+Experience with retail industry, customer-level demographic and transactional data a must.
+
+Experience with web API's, clickstream and mobile app engagement/telemetry data a plus.
+
+Proven ability to deploy new analytic and data manipulation techniques.
+
+Ability to think conceptually and creatively about problems and solutions.
+
+Strong interpersonal communication skills, verbal and written, required due to the nature and level of interaction with senior management.
+
+Demonstrated ability to prioritize workload and ability to manage multiple projects while meeting deadlines
